@@ -1,0 +1,41 @@
+mainSections = ["post"]
+rssFullContent = true
+favicon = "img/favicon.png"
+
+[footer]
+    since = 2026
+    customText = "With all my love, Dad"
+
+[dateFormat]
+    published = ":date_full"
+    lastUpdated = ":date_full"
+
+[sidebar]
+    emoji = "📖"
+    subtitle = "For Lydia, Steven, Molly, Owen, and Liam."
+    avatar = "img/avatar.png"
+
+[article]
+    headingAnchor = false
+    math = false
+    readingTime = true
+
+[article.license]
+    enabled = false
+    default = ""
+
+[widgets]
+    homepage = [
+        { type = "search" },
+        { type = "archives", params = { limit = 5 } },
+        { type = "categories", params = { limit = 10 } },
+        { type = "tag-cloud", params = { limit = 10 } },
+    ]
+    page = [{ type = "toc" }]
+
+[colorScheme]
+    toggle = true
+    default = "light"
+
+[comments]
+    enabled = false

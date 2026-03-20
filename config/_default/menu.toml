@@ -1,0 +1,39 @@
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/wingej0"
+
+    [social.params]
+        icon = "brand-github"
+
+[[social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/wingetj/"
+
+    [social.params]
+        icon = "brand-linkedin"
+
+[[social]]
+    identifier = "facebook"
+    name = "Facebook"
+    url = "https://www.facebook.com/wingetj"
+
+    [social.params]
+        icon = "brand-facebook"
+
+[[social]]
+    identifier = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/jeff_winget/"
+
+    [social.params]
+        icon = "brand-instagram"
+
+[[social]]
+    identifier = "youtube"
+    name = "YouTube"
+    url = "https://www.youtube.com/@thereal3dteacher"
+
+    [social.params]
+        icon = "brand-youtube"

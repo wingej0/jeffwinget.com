@@ -1,0 +1,11 @@
+baseURL = 'https://jeffwinget.com'
+locale = 'en-us'
+title = "My Father's Life"
+theme = 'hugo-theme-stack'
+copyright = "Jeff Winget"
+
+defaultContentLanguage = "en"
+hasCJKLanguage = false
+
+[pagination]
+    pagerSize = 5
