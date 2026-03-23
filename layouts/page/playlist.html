@@ -1,0 +1,52 @@
+{{ define "body-class" }}template-playlist{{ end }}
+{{ define "main" }}
+
+<article class="main-article">
+  <header class="article-header">
+    {{ partial "article/components/details" (dict "Page" . "IsList" false) }}
+  </header>
+
+  <section class="article-content">
+    {{ .Content }}
+
+    {{ $posts := where .Site.RegularPages "Section" "post" }}
+    {{ $songed := where $posts ".Params.song" "ne" nil }}
+    {{ $sorted := sort $songed ".Date" "desc" }}
+
+    {{ if $sorted }}
+    <div class="playlist">
+      {{ range $sorted }}
+      {{ $song := .Params.song }}
+      <div class="playlist-entry">
+        <div class="playlist-entry-meta">
+          <a href="{{ .RelPermalink }}" class="playlist-entry-post">{{ .Title }}</a>
+          <span class="playlist-entry-song">
+            {{- with $song.title -}}<strong>{{ . }}</strong>{{- end -}}
+            {{- with $song.artist }} &mdash; <em>{{ . }}</em>{{- end -}}
+          </span>
+        </div>
+
+        {{- with $song.apple -}}
+        {{- $appleURL := replace . "music.apple.com" "embed.music.apple.com" -}}
+        <div class="song-player song-player--apple">
+          <iframe
+            allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+            frameborder="0"
+            height="175"
+            sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+            src="{{ $appleURL }}"
+            title="{{ $song.title }} on Apple Music">
+          </iframe>
+        </div>
+        {{- end -}}
+      </div>
+      {{ end }}
+    </div>
+    {{ else }}
+    <p><em>No songs yet &mdash; they will appear here as posts are published.</em></p>
+    {{ end }}
+  </section>
+</article>
+
+{{ partialCached "footer/footer" . }}
+{{ end }}

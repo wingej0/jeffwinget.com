@@ -1,0 +1,54 @@
+// Song embed styles
+
+.song-embed {
+    margin: 2rem 0;
+
+    .song-label {
+        font-size: 1.05rem;
+        margin-bottom: 0.75rem;
+    }
+}
+
+.song-player--apple {
+    iframe {
+        width: 100%;
+        max-width: 660px;
+        border-radius: var(--card-border-radius);
+        border: 0;
+    }
+}
+
+// Playlist page styles
+
+.playlist {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+.playlist-entry {
+    border-top: 1px solid var(--card-separator-color);
+    padding-top: 1.5rem;
+
+    .playlist-entry-meta {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        margin-bottom: 1rem;
+    }
+
+    .playlist-entry-post {
+        font-size: 1.3rem;
+        color: var(--accent-color);
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    .playlist-entry-song {
+        font-size: 1.05rem;
+    }
+}
