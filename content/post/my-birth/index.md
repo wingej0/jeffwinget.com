@@ -1,6 +1,5 @@
 +++
 date = '2026-03-20T14:57:26-06:00'
-draft = true
 title = 'My Birth'
 categories = ['Early Childhood and Heritage']
 tags = ['Dad', 'Grandma Jan', 'Grandpa Steve']
