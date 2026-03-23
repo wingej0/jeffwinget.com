@@ -1,3 +1,9 @@
+[goldmark.extensions.extras.delete]
+    enable = true
+
+[goldmark.extensions.footnote]
+    enable = true
+
 [goldmark.renderer]
     unsafe = true
 
