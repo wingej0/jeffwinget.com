@@ -16,25 +16,25 @@ image = "cover.jpg"
 
 On September 19, 1978, Jeffery Steven Winget came into the world.[^1]  I asked Grandma Jan for information about my birth, and she couldn't remember.  We decided during our conversation that her lack of memory about the birth of her favorite child probably means that it was uneventful, even if my life wasn't.
 
-I do know the rest of the specifics from the question, however.  I was born at Cottonwood Hospital in Murray, Utah.  Even though I know you will all want to visit the place of my birth, it no longer exists.  It was closed in 2007 when the new IHC Hospital was built nearby (Owen was born in that new hospital, btw), and it was torn down in 2009.[^2]  
+The only memory that Grandma shared about my birth was that it was scheduled two weeks early.  I was due on October 1st.  However, Grandma was tiny, and there was worry that carrying me to term would be difficult for her.  So, I got to come early, and I was a small baby: 6 lbs 6 oz.
 
-Grandma doesn't remember the specific time that I was born.  Maybe one day, I'll track down my birth certificate and be able to tell you, but the little details seem less important than the stories in this space.  I was born during the day, and it was scheduled.  My due date was October 1st, and the doctor was worried about how small Grandma was and the potential for complications if she carried me to term.
-
-It turns out that there was no need to worry.  I was a small baby: 6 lbs 6 oz, and the birth was so simple (or I'm so incredibly awesome) that Grandma can't remember it.  
-
-The last thing to talk about with this prompt is my name.  You noticed in the beginning that my name was spelled "Jeffery" when I was born.  Weird things happen to teachers when we try to name our children.  There are names that I could never use to name my kids because they remind me of students who drove me crazy.  Grandma's reason for changing my name was a little different than that, but it's in the same general theme.
-
-The year I was born, Grandma had a "Jeffery" in her class at school.  That student was a girl.  So, not wanting me to have the feminine spelling of the name they had carefully chosen for me (more on that in a minute, too), they worked for almost a year to change the spelling to the--at least what they thought--masculine spelling of "Jeffrey."
-
-In reality, my name was incredibly common that year.  There were 4 Jeffs that lived in our ward that were about my age: One "Jeffery," two "Geoffreys," and one "Jeffrey"--me.
+Finally, I do know the rest of the specifics from the question.  I was born at Cottonwood Hospital in Murray, Utah.  Even though I know you will all want to visit the place of my birth, it no longer exists.  It was closed in 2007 when the new IHC Hospital was built nearby (Owen was born in that new hospital, btw), and it was torn down in 2009.[^2]  
 
 ## Are there any stories about your birth that were told to you by your parents or other family members?
 
 <img src="baby-dad2.jpg" alt="Thank you, for coming to my birthday party." style="max-width: 200px; float: right; margin: 1rem 1rem 1rem 0; border-radius: 0.5rem;">
 
-The one story that I remember people telling me is that Grandma and Grandpa were both convinced that I would be a girl.  Liza and I were the first Peacock babies born, so the pattern of Peacock boy babies had yet to be established.  They were so convinced that I would be a girl that they didn't even choose a boy name.  
+The most enduring story of my birth isn't about the delivery itself—which Grandma Jan apparently slept through emotionally—but about the identity crisis that followed.
 
-Until I shocked the world by being a boy, my name was "Stephanie."  I'm sure my life would have been wildly different if that was how things turned out.  I'm grateful to be Jeffrey and to be a man.  Otherwise, I could never have been your dad.
+You see, Grandma and Grandpa were absolutely convinced I was going to be a girl. Since Liza and I were the first "Peacock" babies (Grandma’s side of the family) of our generation, the long-standing pattern of Peacocks birthing boys hadn't been established. They were so certain of this that they didn’t even bother picking out a boy’s name. Until I shocked the world by arriving as a son, my name was officially going to be "Stephanie."
+
+I’m sure my life would have been wildly different if that was how things turned out. I’m grateful to be Jeffrey and to be a man. Otherwise, I could never have been your dad.
+
+My parents, on the other hand, were presented with the conundrum of coming up with a name on the fly after my birth, settling on the name "Jeffery Steven."  That, however, isn't the end of the story.
+
+Teachers have a weird "occupational hazard" when naming children: we can’t use names of students who drove us crazy, and we see and connect with names in all kinds of ways. That year, Grandma had a student named Jeffery in her class—a girl. Not wanting me to have what she then perceived as a "feminine" spelling, she and Grandpa spent nearly a year working to change my legal spelling to the "masculine" version: Jeffrey.
+
+The irony? My name was about as "unique" as a white sedan that year. In our local ward alone, there were four of us that were the same age: one "Jeffery," two "Geoffreys," and then me—the newly corrected "Jeffrey."
 
 ## Today's Song
 
