@@ -40,6 +40,10 @@ Here is the scene I have referenced above.  It is powerful.  If you haven't read
 
 I don't think so.  I've often thought of my name as a bit of an afterthought because I was supposed to be "Stephanie," but I'm not sure where it actually came from.  I'm still waiting for the 'official' word from Grandma Jan on why they pivoted to Jeffrey specifically—stay tuned for a potential update if she finally remembers!
 
+Update from Granny:
+
+> "I just liked it.  I didn't know there would be 10 more boys in the county with the same name within a year or two of your age.  It was a popular name.  I guess that's why I liked it."
+
 ## What about your middle name?
 
 In the Winget family, it is tradition for at least one boy to have their father's name as their middle name.  So, my middle name is Steven after Grandpa Steve.  It's pretty obvious that I was slow on this tradition, since it's our youngest whose middle name is Jeffrey, but Steven and Owen are both named after wonderful men in the family.  William is the only boy whose first name isn't a family name (although it's a special name!), so it makes sense for him to get my name as his middle name.
