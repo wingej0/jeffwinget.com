@@ -34,7 +34,7 @@ My parents, on the other hand, were presented with the conundrum of coming up wi
 
 Teachers have a weird "occupational hazard" when naming children: we can’t use names of students who drove us crazy, and we see and connect with names in all kinds of ways. That year, Grandma had a student named Jeffery in her class—a girl. Not wanting me to have what she then perceived as a "feminine" spelling, she and Grandpa spent nearly a year working to change my legal spelling to the "masculine" version: Jeffrey.
 
-The irony? My name was about as "unique" as a white sedan that year. In our local ward alone, there were four of us that were the same age: one "Jeffery," two "Geoffreys," and then me—the newly corrected "Jeffrey."
+The irony? My name was about as "unique" as a white sedan in a school district parking lot that year. In our local ward alone, there were four of us that were the same age: one "Jeffery," two "Geoffreys," and then me—the newly corrected "Jeffrey."
 
 ## Today's Song
 
